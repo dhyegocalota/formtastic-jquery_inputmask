@@ -1,0 +1,19 @@
+{
+  "name": "formtastic-jquery_inputmask",
+  "homepage": "https://github.com/dhyegofernando/formtastic-jquery_inputmask",
+  "authors": [
+    "Dhyego Fernando <dhyegofernando@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "inputmask": "^3.3.9"
+  }
+}
