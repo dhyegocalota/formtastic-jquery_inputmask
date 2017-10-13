@@ -12,7 +12,7 @@ gem 'formtastic-jquery_inputmask'
 //= require formtastic/inputmask
 ```
 
-**3. Load locale or other [inputmask](https://github.com/dhyegofernando/formtastic-jquery_inputmask/tree/master/vendor/Inputmask/dist) file as you want**
+**3. Load locale or other [inputmask](https://github.com/dhyegofernando/formtastic-jquery_inputmask/tree/master/vendor/inputmask/dist) file as you want**
 ```javascript
 //= require formtastic/inputmask/locales/pt-BR
 //= require inputmask/phone-codes/phone-us
