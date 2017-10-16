@@ -36,8 +36,7 @@
       digits: 2,
       digitsOptional: false,
       clearMaskOnLostFocus: false,
-      rightAlign: false,
-      numericInput: true
+      rightAlign: false
     },
     decimal: {
       alias: 'numeric',
